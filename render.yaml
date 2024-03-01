@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: 0rxl0
+    env: docker
+    plan: free
